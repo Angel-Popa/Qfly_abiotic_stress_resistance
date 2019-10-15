@@ -9,4 +9,4 @@ The highly polyphagous Queensland fruit fly (*Bactrocera tryoni* Froggatt) expan
 
 ## Additional information
 
-For any comments or additional information, contact me or add a comment on this repository. My email is angel (dot) dapopa (at) gmail (dot) com
+For any comments or additional information, contact me or add a comment on this repository. My email is ***angel (dot) dapopa (at) gmail (dot) com***
